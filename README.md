@@ -25,3 +25,26 @@ This project is a backend REST API for Student Management system built using Dja
 ---
 
 ## 📂 Project Structure
+
+## 📂 Project Structure
+
+student-api/
+│
+├── student_api/        # Main project settings
+│   ├── __init__.py
+│   ├── settings.py
+│   ├── urls.py
+│   ├── asgi.py
+│   └── wsgi.py
+│
+├── home/           # App (Student APIs)
+│   ├── models.py
+│   ├── views.py
+│   ├── serializers.py
+│   ├── urls.py
+│   └── migrations/
+│
+├── manage.py
+├── requirements.txt
+├── README.md
+└── .gitignore
