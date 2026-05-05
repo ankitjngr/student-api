@@ -11,6 +11,8 @@ This project is a backend REST API for Student Management system built using Dja
 - Secure Token-based Authentication
 - Student CRUD Operations (Create, Read, Update, Delete)
 - RESTful API structure
+- JWT Authentication (Access + Refresh Token)
+- Pagination
 
 ---
 
